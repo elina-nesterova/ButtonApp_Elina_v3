@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ButtonApp_Elina</string>
+    <string name="textLabel">Hello professor Dwyer! Elina enjoys making apps.</string>
+    <string name="buttonLabel">Click me!</string>
+</resources>
